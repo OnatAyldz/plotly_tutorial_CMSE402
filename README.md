@@ -64,4 +64,4 @@ Undergraduate Student, Physics and Data Science Major
 Michigan State University
 
 ## Project Status
-Tutorials are currently being completed and polished.
+Tutorials are complete, repository being refined
