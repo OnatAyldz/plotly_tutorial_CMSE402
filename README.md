@@ -58,6 +58,7 @@ The [installation guide](install.md) includes all necessary steps to run the not
 
 ## Binder Implementation
 If you wish to interact with these notebooks without having to clone the repository, you can use the following link to access a Docker image of the repository created through [Binder](https://mybinder.org/), where you can run all of the notebooks without affecting the repository:
+
 https://mybinder.org/v2/gh/OnatAyldz/plotly_tutorial_CMSE402/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md
 
 ## Author
