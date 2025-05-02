@@ -13,3 +13,4 @@ dependencies:
   - statsmodels
   - dash
   - plotly
+  - jupyter
