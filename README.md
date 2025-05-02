@@ -31,12 +31,12 @@ The [installation guide](install.md) includes all necessary steps to run the not
 
 ### Notebooks Overview
 
-1. **[Scatter Plots – *Visualizing Relationships*](notebooks/01_scatter_plots.ipynb)**
+1. **[Scatter Plots – *Visualizing Relationships*](notebooks/01_scatterplots_relationships.ipynb)**
    - Intro to Plotly scatter plots and customization
    - Shows how to effectively visualize multivariate relationships
    - Demonstrates statistical overlays and best practices for relational data
 
-2. **[Line and Stacked Area Plots – *Visualizing Trends Over Time*](notebooks/02_line_plots.ipynb)**
+2. **[Line and Stacked Area Plots – *Visualizing Trends Over Time*](notebooks/02_lineplots_timeseries.ipynb)**
    - Tutorial for creating line and stacked area charts
    - Discusses use cases, design tradeoffs, and temporal data storytelling
 
