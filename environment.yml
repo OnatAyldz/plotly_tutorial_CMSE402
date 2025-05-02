@@ -14,3 +14,7 @@ dependencies:
   - dash
   - plotly
   - jupyter
+  - jupyter-dash
+  - pip
+  - pip:
+    - jupyterlab-dash
